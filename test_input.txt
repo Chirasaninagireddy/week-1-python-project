@@ -1,0 +1,34 @@
+Test Case 1:
+Input:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Expected Output:
+Program accepts input and displays correctly
+
+
+Test Case 2:
+Input:
+Favorite Food: (empty)
+Favorite Color: Red
+
+Expected Output:
+Program asks again for food input
+
+
+Test Case 3:
+Input:
+Favorite Food: Biryani
+Favorite Color: (empty)
+
+Expected Output:
+Program asks again for color input
+
+
+Test Case 4:
+Input:
+Favorite Food: Burger
+Favorite Color: Black
+
+Expected Output:
+All data displayed properl
