@@ -31,17 +31,18 @@ The project has a simple structure:
 Below is an example of how the program works:
 
 Example Output:
-Enter your favorite food: Pizza
-Enter your favorite color: Blue
 
---- Personal Information ---
-Name: ayush
-Age: 20
-City: delhi
-Hobby: Reading
-Favorite Food: Pizza
-Favorite Color: Blue
-Age in Months: 240
+- Enter your favorite food: Pizza
+- Enter your favorite color: Blue
+
+- --- Personal Information ---
+- Name: ayush
+- Age: 20
+- City: delhi
+- Hobby: Reading
+- Favorite Food: Pizza
+- Favorite Color: Blue
+- Age in Months: 240
 
 ##  Technical Details
 
