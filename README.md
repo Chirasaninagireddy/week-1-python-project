@@ -10,7 +10,7 @@ Follow these steps to run the project:
 
 1. Install Python (if not installed)
 2. Download or clone this repository:
-   git clone https://github.com/your-username/week-1-python-project.git
+https://github.com/Chirasaninagireddy/week-1-python-project.git
 
 3. Navigate to the folder:
    cd week-1-python-project
